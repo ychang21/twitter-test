@@ -1,0 +1,24 @@
+{
+  "name": "twitter-test",
+  "version": "1.0.0",
+  "description": "### This is a command line node app that uses the Twitter NPM package to generates 3 tweets from the hashtag of the user's choice.",
+  "main": "bot.js",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ychang21/twitter-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ychang21/twitter-test/issues"
+  },
+  "homepage": "https://github.com/ychang21/twitter-test#readme"
+}
